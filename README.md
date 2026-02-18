@@ -10,26 +10,23 @@
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Business Problem](#-business-problem)
-- [Key Results at a Glance](#-key-results-at-a-glance)
-- [Tech Stack](#-tech-stack)
-- [Repository Structure](#-repository-structure)
-- [Methodology](#-methodology)
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Key Results at a Glance](#key-results-at-a-glance)
+- [Tech Stack](#tech-stack)
+- [Repository Structure](#repository-structure)
+- [Methodology](#methodology)
   - [1. Dataset](#1-dataset)
   - [2. Data Preparation](#2-data-preparation)
   - [3. Feature Engineering](#3-feature-engineering)
-- [Exploratory Data Analysis — Key Findings](#-exploratory-data-analysis--key-findings)
-- [Regression Modelling](#-regression-modelling)
+- [Exploratory Data Analysis — Key Findings](#exploratory-data-analysis--key-findings)
+- [Regression Modelling](#regression-modelling)
   - [Model 1: Grid Position + Constructor Prestige → Points](#model-1-grid-position--constructor-prestige--points)
   - [Model 2: Grid Position × Circuit Type Interaction → Points](#model-2-grid-position--circuit-type-interaction--points)
-- [Classification Modelling — Podium Prediction](#-classification-modelling--podium-prediction)
-- [Business Implications](#-business-implications)
-- [How to Run](#-how-to-run)
-- [Limitations & Future Work](#-limitations--future-work)
-- [Academic Context](#-academic-context)
-- [Related Projects in This Portfolio](#-related-projects-in-this-portfolio)
-- [Connect](#-connect)
+- [Classification Modelling — Podium Prediction](#classification-modelling--podium-prediction)
+- [Business Implications](#business-implications)
+- [How to Run](#how-to-run)
+- [Limitations & Future Work](#limitations--future-work)
 
 
 
@@ -127,7 +124,7 @@ f1-marketing-performance-analytics/
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 ### 1. Dataset
 The analysis uses the **Formula 1 World Championship dataset (1950–2020)** from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020), filtered to **2010–2020** to ensure a consistent points scoring system (25-18-15-12-10-8-6-4-2-1 introduced in 2010).
